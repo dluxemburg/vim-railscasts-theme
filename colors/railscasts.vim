@@ -9,7 +9,7 @@ hi clear
 if exists("syntax_on")
   syntax reset
 endif
-let g:colors_name = "dlux-railscasts"
+let g:colors_name = "dluxrailscasts"
 
 hi Normal                    guifg=#e4e4e4 guibg=#2B2B2B ctermfg=254 ctermbg=233
 hi Search                    guifg=#000000 guibg=#5f5f87 ctermfg=0 ctermbg=60 cterm=NONE
